@@ -24,7 +24,7 @@ elif Q1 == 2:
 else:
     print('Wrong input!')
 
-Q2 = int(input("When I'm dead, I want people to remember me as:\n 1) The Good\n 2) The great\n 3) The wise\n 4) The bold\n" ))
+Q2 = int(input("When I'm dead, I want people to remember me as:\n 1) The Good\n 2) The great\n 3) The wise\n 4) The 2bold\n" ))
 
 if Q2 == 1:
     Hufflepuff_points += 2
